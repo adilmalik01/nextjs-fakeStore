@@ -42,7 +42,7 @@ const Checkout = () => {
                             <input className="w-full px-2 py-2 text-gray-700 bg-gray-200 rounded" id="cus_name" name="cus_name" type="text" required placeholder="Card Number MM/YY CVC" aria-label="Name" />
                         </div>
                         <div className="mt-4">
-                            <button className="px-4 py-1 text-white font-light tracking-wider bg-gray-900 rounded" type="submit">Checkout</button>
+                            <button className="px-4 py-1 text-white font-light tracking-wider bg-gray-900 rounded" type="submit">hello</button>
                         </div>
                     </form>
                 </div>
