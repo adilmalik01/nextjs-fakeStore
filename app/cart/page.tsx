@@ -79,9 +79,11 @@ const CartPage: NextPage = () => {
                                 </span>
                             </div>
                             <div className="">
-                                <button className="bg-blue-600 w-[300px] text-white px-4 py-2 rounded-md shadow-sm hover:bg-blue-700">
-                                    <a href="/checkout">Details</a>
-                                </button>
+                                <a href="/checkout">
+                                    <button className="bg-blue-600 w-[300px] text-white px-4 py-2 rounded-md shadow-sm hover:bg-blue-700">
+                                        Details
+                                    </button>
+                                </a>
                             </div>
                         </div>
                     </div>
